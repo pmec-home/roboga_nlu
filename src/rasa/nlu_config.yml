@@ -1,0 +1,4 @@
+language: "en"
+num_threads: 10
+
+pipeline: "tensorflow_embedding"

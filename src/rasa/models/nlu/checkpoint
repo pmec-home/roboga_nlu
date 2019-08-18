@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/eduardo/athome/chatbot/rasa/models/nlu/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/home/eduardo/athome/chatbot/rasa/models/nlu/intent_classifier_tensorflow_embedding.ckpt"

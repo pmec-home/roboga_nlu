@@ -1,0 +1,5613 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "correct"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "let's do it"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "very good"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "affirmative"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "of course"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "yep"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "you are right"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "yeah"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "that is it"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "yes to that"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "yea"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "thats what i want"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "ok"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "si"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "you're goddamn accurate"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "correcto"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "you understood me"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "I'm fine with this"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "what i desire"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "it is what i want"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "gladly"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "true"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "yes"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "nice"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "accurate"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "do it"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "you're goddamn correct"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "you're correct"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "all right"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "precise"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "you're goddamn right"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "perfect"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "Im fine with this"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "valid"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "that sounds good"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "that's it"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "acceptable"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "sounds good"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "definitely"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "very nice"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "indeed"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "is what i want"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "Im all right with that"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "sure"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "Im all right with this"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "i wish it"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "fine"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "exact"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "it's what i want"
+      },
+      {
+        "entities": [],
+        "intent": "affirm",
+        "text": "it's correct"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no need"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "nope"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not quite"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "it's falty"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "I'm not ok with that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "didnt agree on that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no to that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not good with that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "did not agree on that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "negative"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "did not"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "there is no need"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "definitely no"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "almost"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "you are incorrect"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "incomplete for me"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "falty"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "you're wrong"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "is not acceptable"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "definitely no to that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "that is defective"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "it's untrue"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "didnt"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "you're incorrect"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not all right"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "I'm not good with that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "is it not all right"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "you're mistaken"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "no way"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "isn't correct"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "incorrect for me"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "mistaken for me"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not what i agree on"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "thats false"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "thats erroneous"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "is untrue"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "is it missing"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not what i crave"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "incorrect"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "didn't agree on that"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "imprecise for me"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "bad for me"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "missing"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not at all"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "didn't"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "definitely did not"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "isn't right"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "is it incorrect"
+      },
+      {
+        "entities": [],
+        "intent": "deny",
+        "text": "not what i mean"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "howdy"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hola"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ola"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hi again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "howdy again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hola again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "ola again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hello there again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hey there again"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greetings"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "salutations"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "greetings and salutations"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how are you"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "whats up"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how are you doing"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how is going"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how it is going"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how it's going"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how its going"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how is it going"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good afternoon"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good day"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "good night"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "goodmorning"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "goodafternoon"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "goodday"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "goodnight"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "are you there"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "morning"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "how are things going"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "are you around"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "whatsup"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "sup"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "hallo"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "what's up"
+      },
+      {
+        "entities": [],
+        "intent": "greet",
+        "text": "what is up"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i have to go"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "goodbye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "talk to you soon"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "got to go"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I'm leaving"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Im leaving now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i talk to you later"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "leaving now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i got to go now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "have to go now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "later"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "chau"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i got to go"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I am going out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "tchau"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "chao"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "going out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "farewell"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i will talk to you soon"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Im going out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "see you around"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I'm leaving now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i got to go now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i have to go now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "good bye"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Im leaving"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "see you"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "heading out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I am leaving now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "have a nice day"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I am heading out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "talk to you later"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I'm going out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "have a nice afternoon"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "got to go"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "adios"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "see you later"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I'm heading out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "Im heading out"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "got to go now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "leaving"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "adieu"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "have a nice night"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "I am leaving"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "have to go"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "got to go now"
+      },
+      {
+        "entities": [],
+        "intent": "bye",
+        "text": "i got to go"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you can initiate"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "wake"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you may initiate"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "start up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "start"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "turn on"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "wake up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you should listen"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "light up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "on"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "listen"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "begin"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you can wake up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you should turn on"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "commence"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you can start up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "initiate"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you should begin"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "go ahead"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "excuse me wake"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you should commence"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "could you please listen"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "could you listen"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you can light up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you should wake up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "would you be kind to listen"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you should light up"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "would you kindly go ahead"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "would you kindly turn on"
+      },
+      {
+        "entities": [],
+        "intent": "start",
+        "text": "you should on"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "wrong road"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "enough"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "freeze holding her"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "you arrived right there"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "thats here"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "not find"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "it's on there"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "we arrived"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "location",
+            "start": 25,
+            "value": "seat"
+          }
+        ],
+        "intent": "stop",
+        "text": "we arrived nearby at the seat"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "go off"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "location",
+            "start": 12,
+            "value": "dinnertable"
+          }
+        ],
+        "intent": "stop",
+        "text": "here is the dinnertable"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "stay on hibernation"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "end's on here"
+      },
+      {
+        "entities": [
+          {
+            "end": 32,
+            "entity": "location",
+            "start": 21,
+            "value": "living room"
+          }
+        ],
+        "intent": "stop",
+        "text": "you are close to the living room"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "you arrived"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "off"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "location",
+            "start": 12,
+            "value": "exit"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the exit"
+      },
+      {
+        "entities": [
+          {
+            "end": 34,
+            "entity": "location",
+            "start": 19,
+            "value": "kitchen counter"
+          }
+        ],
+        "intent": "stop",
+        "text": "you are nearby the kitchen counter"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "is here"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "end on there"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "wrong path"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "location",
+            "start": 12,
+            "value": "bar"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the bar"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "end on here"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "that's here"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "go on hibernation"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "it's enough"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "its here"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "you arrived on there"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 21,
+            "value": "table"
+          }
+        ],
+        "intent": "stop",
+        "text": "you are close by the table"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "freeze"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "turn off"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "stay off"
+      },
+      {
+        "entities": [
+          {
+            "end": 38,
+            "entity": "location",
+            "start": 27,
+            "value": "flight case"
+          }
+        ],
+        "intent": "stop",
+        "text": "you arrived closely to the flight case"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "it's here"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "location",
+            "start": 12,
+            "value": "entrance"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the entrance"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "don't do it"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 15,
+            "value": "dining room"
+          }
+        ],
+        "intent": "stop",
+        "text": "on here is the dining room"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "finish doing it"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "wait"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "stop the traveling to here"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "stop the exercise"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "end right there"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "location",
+            "start": 12,
+            "value": "microwave"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the microwave"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "isn't the acceptable course"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "go on suspension"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "you are on here"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "location",
+            "start": 25,
+            "value": "desk"
+          }
+        ],
+        "intent": "stop",
+        "text": "we arrived nearby at the desk"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "go on offline"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "isn't the road"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "it is in there"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "be off"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "wrong route"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "location",
+            "start": 12,
+            "value": "container"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the container"
+      },
+      {
+        "entities": [
+          {
+            "end": 30,
+            "entity": "location",
+            "start": 21,
+            "value": "appliance"
+          }
+        ],
+        "intent": "stop",
+        "text": "you are close by the appliance"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "that is enough"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "stop"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "location",
+            "start": 12,
+            "value": "shelf"
+          }
+        ],
+        "intent": "stop",
+        "text": "here is the shelf"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "stop the walking"
+      },
+      {
+        "entities": [
+          {
+            "end": 39,
+            "entity": "location",
+            "start": 24,
+            "value": "washing machine"
+          }
+        ],
+        "intent": "stop",
+        "text": "you arrived next to the washing machine"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "halt"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "pause the holding her"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "location",
+            "start": 20,
+            "value": "balcony"
+          }
+        ],
+        "intent": "stop",
+        "text": "we arrived near the balcony"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "location",
+            "start": 16,
+            "value": "kitchen shelf"
+          }
+        ],
+        "intent": "stop",
+        "text": "on there is the kitchen shelf"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "location",
+            "start": 12,
+            "value": "door"
+          }
+        ],
+        "intent": "stop",
+        "text": "that is the door"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "suspend"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "suspend traveling to there"
+      },
+      {
+        "entities": [
+          {
+            "end": 32,
+            "entity": "location",
+            "start": 22,
+            "value": "coathanger"
+          }
+        ],
+        "intent": "stop",
+        "text": "we are closely to the coathanger"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 12,
+            "value": "cleaning stuff"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the cleaning stuff"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "don't"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "do not do it"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "not take it"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "don't hold"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "end here"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "location",
+            "start": 21,
+            "value": "teepee"
+          }
+        ],
+        "intent": "stop",
+        "text": "you are close at the teepee"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "we are on here"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 21,
+            "value": "shelf"
+          }
+        ],
+        "intent": "stop",
+        "text": "you are close at the shelf"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "it is on here"
+      },
+      {
+        "entities": [
+          {
+            "end": 37,
+            "entity": "location",
+            "start": 30,
+            "value": "bathtub"
+          }
+        ],
+        "intent": "stop",
+        "text": "we arrived in the back of the bathtub"
+      },
+      {
+        "entities": [
+          {
+            "end": 40,
+            "entity": "location",
+            "start": 24,
+            "value": "bathroom cabinet"
+          }
+        ],
+        "intent": "stop",
+        "text": "you arrived next to the bathroom cabinet"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "hold up"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "end's in there"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "end in here"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 22,
+            "value": "hall"
+          }
+        ],
+        "intent": "stop",
+        "text": "we are closely to the hall"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "halt the doing it"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "cease"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "location",
+            "start": 8,
+            "value": "storage shelf"
+          }
+        ],
+        "intent": "stop",
+        "text": "its the storage shelf"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "be on suspension"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "halt the what you doing"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "location",
+            "start": 24,
+            "value": "bar"
+          }
+        ],
+        "intent": "stop",
+        "text": "we arrived close by the bar"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "not do it"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "location",
+            "start": 12,
+            "value": "coffee table"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the coffee table"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "do not"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "its in there"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "location",
+            "start": 12,
+            "value": "plant"
+          }
+        ],
+        "intent": "stop",
+        "text": "this is the plant"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "we are right there"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 21,
+            "value": "couch"
+          }
+        ],
+        "intent": "stop",
+        "text": "you are close at the couch"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "dont follow her"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "location",
+            "start": 10,
+            "value": "drawer"
+          }
+        ],
+        "intent": "stop",
+        "text": "it is the drawer"
+      },
+      {
+        "entities": [],
+        "intent": "stop",
+        "text": "is it here"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "location",
+            "start": 13,
+            "value": "dresser"
+          }
+        ],
+        "intent": "stop",
+        "text": "there is the dresser"
+      },
+      {
+        "entities": [
+          {
+            "end": 38,
+            "entity": "location",
+            "start": 22,
+            "value": "bathroom cabinet"
+          }
+        ],
+        "intent": "move",
+        "text": "approach close at the bathroom cabinet"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "location",
+            "start": 14,
+            "value": "room"
+          }
+        ],
+        "intent": "move",
+        "text": "nearby to the room"
+      },
+      {
+        "entities": [
+          {
+            "end": 48,
+            "entity": "gesture",
+            "start": 35,
+            "value": "pointing left"
+          }
+        ],
+        "intent": "move",
+        "text": "get walking the spot where someone pointing left are"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "navigate"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "migrates"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "location",
+            "start": 13,
+            "value": "stove"
+          }
+        ],
+        "intent": "move",
+        "text": "close by the stove"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "travel"
+      },
+      {
+        "entities": [
+          {
+            "end": 28,
+            "entity": "location",
+            "start": 19,
+            "value": "appliance"
+          }
+        ],
+        "intent": "move",
+        "text": "wait nearby at the appliance"
+      },
+      {
+        "entities": [
+          {
+            "end": 25,
+            "entity": "direction",
+            "start": 17,
+            "value": "down"
+          }
+        ],
+        "intent": "move",
+        "text": "begin driving in backward"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "location",
+            "start": 22,
+            "value": "dining room"
+          }
+        ],
+        "intent": "move",
+        "text": "search closely to the dining room"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "direction",
+            "start": 9,
+            "value": "left"
+          }
+        ],
+        "intent": "move",
+        "text": "drive in left"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "advance"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 17,
+            "value": "him"
+          },
+          {
+            "end": 26,
+            "entity": "direction",
+            "start": 21,
+            "value": "right"
+          }
+        ],
+        "intent": "move",
+        "text": "begin driving on him right"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "roam"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "drive"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "pronoun",
+            "start": 15,
+            "value": "me"
+          },
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 18,
+            "value": "me"
+          },
+          {
+            "end": 36,
+            "entity": "location",
+            "start": 28,
+            "value": "corridor"
+          }
+        ],
+        "intent": "move",
+        "text": "stand close to me im to the corridor"
+      },
+      {
+        "entities": [
+          {
+            "end": 28,
+            "entity": "location",
+            "start": 24,
+            "value": "door"
+          }
+        ],
+        "intent": "move",
+        "text": "wait to the back of the door"
+      },
+      {
+        "entities": [
+          {
+            "end": 30,
+            "entity": "direction",
+            "start": 25,
+            "value": "right"
+          }
+        ],
+        "intent": "move",
+        "text": "begin walking toward the right"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "go"
+      },
+      {
+        "entities": [
+          {
+            "end": 11,
+            "entity": "direction",
+            "start": 6,
+            "value": "right"
+          }
+        ],
+        "intent": "move",
+        "text": "go on right"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "begin roaming"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "run"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "move"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "pronoun",
+            "start": 15,
+            "value": "them"
+          }
+        ],
+        "intent": "move",
+        "text": "come nearby at them"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "direction",
+            "start": 14,
+            "value": "up"
+          }
+        ],
+        "intent": "move",
+        "text": "get advancing ahead"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "direction",
+            "start": 17,
+            "value": "left"
+          }
+        ],
+        "intent": "move",
+        "text": "move towards the left"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "direction",
+            "start": 17,
+            "value": "left"
+          }
+        ],
+        "intent": "move",
+        "text": "get migrating on left"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "me"
+          },
+          {
+            "end": 25,
+            "entity": "pronoun",
+            "start": 22,
+            "value": "me"
+          },
+          {
+            "end": 47,
+            "entity": "location",
+            "start": 37,
+            "value": "tray table"
+          }
+        ],
+        "intent": "move",
+        "text": "approach nearby at me I'm nearby the tray table"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "pronoun",
+            "start": 11,
+            "value": "me"
+          },
+          {
+            "end": 18,
+            "entity": "pronoun",
+            "start": 14,
+            "value": "me"
+          },
+          {
+            "end": 37,
+            "entity": "location",
+            "start": 33,
+            "value": "hall"
+          }
+        ],
+        "intent": "move",
+        "text": "stand near me I am nearby at the hall"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "search"
+      },
+      {
+        "entities": [
+          {
+            "end": 25,
+            "entity": "pronoun",
+            "start": 23,
+            "value": "me"
+          },
+          {
+            "end": 31,
+            "entity": "direction",
+            "start": 26,
+            "value": "right"
+          }
+        ],
+        "intent": "move",
+        "text": "start traveling to the my right"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "start walking"
+      },
+      {
+        "entities": [
+          {
+            "end": 30,
+            "entity": "pronoun",
+            "start": 27,
+            "value": "him"
+          }
+        ],
+        "intent": "move",
+        "text": "get roaming the spot where him is"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "gender",
+            "start": 29,
+            "value": "female"
+          }
+        ],
+        "intent": "move",
+        "text": "stand by the place where the girl are"
+      },
+      {
+        "entities": [
+          {
+            "end": 37,
+            "entity": "gesture",
+            "start": 31,
+            "value": "waving"
+          }
+        ],
+        "intent": "move",
+        "text": "get searching wherever whoever waving are"
+      },
+      {
+        "entities": [
+          {
+            "end": 35,
+            "entity": "location",
+            "start": 20,
+            "value": "washing machine"
+          }
+        ],
+        "intent": "move",
+        "text": "stand nearby at the washing machine"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "location",
+            "start": 17,
+            "value": "exit"
+          }
+        ],
+        "intent": "move",
+        "text": "stand nearby the exit"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "location",
+            "start": 22,
+            "value": "cabinet"
+          }
+        ],
+        "intent": "move",
+        "text": "in to the back of the cabinet"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "name",
+            "start": 13,
+            "value": "carmen"
+          }
+        ],
+        "intent": "move",
+        "text": "travel where carmen are"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "pronoun",
+            "start": 25,
+            "value": "me"
+          }
+        ],
+        "intent": "move",
+        "text": "stand the location where i am"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "me"
+          },
+          {
+            "end": 19,
+            "entity": "pronoun",
+            "start": 16,
+            "value": "me"
+          },
+          {
+            "end": 50,
+            "entity": "location",
+            "start": 45,
+            "value": "snack"
+          }
+        ],
+        "intent": "move",
+        "text": "stand nearby me I'm in to the vincity of the snack"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "direction",
+            "start": 8,
+            "value": "right"
+          }
+        ],
+        "intent": "move",
+        "text": "move on right"
+      },
+      {
+        "entities": [
+          {
+            "end": 11,
+            "entity": "pronoun",
+            "start": 9,
+            "value": "me"
+          },
+          {
+            "end": 30,
+            "entity": "location",
+            "start": 26,
+            "value": "room"
+          }
+        ],
+        "intent": "move",
+        "text": "wait for me nearby at the room"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "them"
+          }
+        ],
+        "intent": "move",
+        "text": "approach nearby at them"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "direction",
+            "start": 16,
+            "value": "down"
+          }
+        ],
+        "intent": "move",
+        "text": "migrates to the rearward"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "walk"
+      },
+      {
+        "entities": [
+          {
+            "end": 35,
+            "entity": "pronoun",
+            "start": 31,
+            "value": "me"
+          }
+        ],
+        "intent": "move",
+        "text": "begin searching close at where I am"
+      },
+      {
+        "entities": [
+          {
+            "end": 55,
+            "entity": "gesture",
+            "start": 35,
+            "value": "pointing right"
+          }
+        ],
+        "intent": "move",
+        "text": "stand in to the side of the person pointing to the left"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "location",
+            "start": 13,
+            "value": "snacks"
+          }
+        ],
+        "intent": "move",
+        "text": "close by the snacks"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "direction",
+            "start": 17,
+            "value": "up"
+          }
+        ],
+        "intent": "move",
+        "text": "begin navigating forward"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "start roaming"
+      },
+      {
+        "entities": [
+          {
+            "end": 45,
+            "entity": "gesture",
+            "start": 32,
+            "value": "pointing left"
+          },
+          {
+            "end": 49,
+            "entity": "pronoun",
+            "start": 46,
+            "value": "her"
+          },
+          {
+            "end": 74,
+            "entity": "location",
+            "start": 66,
+            "value": "entrance"
+          }
+        ],
+        "intent": "move",
+        "text": "approach nearby at anyone thats pointing left her is close by the entrance"
+      },
+      {
+        "entities": [
+          {
+            "end": 32,
+            "entity": "direction",
+            "start": 25,
+            "value": "up"
+          }
+        ],
+        "intent": "move",
+        "text": "get searching toward the forward"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 17,
+            "value": "her"
+          },
+          {
+            "end": 26,
+            "entity": "direction",
+            "start": 21,
+            "value": "right"
+          }
+        ],
+        "intent": "move",
+        "text": "get searching on her right"
+      },
+      {
+        "entities": [
+          {
+            "end": 35,
+            "entity": "gesture",
+            "start": 22,
+            "value": "pointing left"
+          },
+          {
+            "end": 50,
+            "entity": "location",
+            "start": 43,
+            "value": "bedroom"
+          }
+        ],
+        "intent": "move",
+        "text": "stand into the person pointing left on the bedroom"
+      },
+      {
+        "entities": [
+          {
+            "end": 10,
+            "entity": "pronoun",
+            "start": 8,
+            "value": "me"
+          },
+          {
+            "end": 16,
+            "entity": "direction",
+            "start": 11,
+            "value": "right"
+          }
+        ],
+        "intent": "move",
+        "text": "walk in my right"
+      },
+      {
+        "entities": [],
+        "intent": "move",
+        "text": "get traveling"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "location",
+            "start": 19,
+            "value": "side table"
+          }
+        ],
+        "intent": "move",
+        "text": "get roaming by the side table"
+      },
+      {
+        "entities": [
+          {
+            "end": 32,
+            "entity": "gender",
+            "start": 28,
+            "value": "male"
+          },
+          {
+            "end": 36,
+            "entity": "pronoun",
+            "start": 33,
+            "value": "him"
+          },
+          {
+            "end": 67,
+            "entity": "location",
+            "start": 55,
+            "value": "dinner chair"
+          }
+        ],
+        "intent": "move",
+        "text": "approach to the back of the dude him is closely to the dinner chair"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "direction",
+            "start": 17,
+            "value": "down"
+          }
+        ],
+        "intent": "move",
+        "text": "begin roaming on rear"
+      },
+      {
+        "entities": [
+          {
+            "end": 45,
+            "entity": "gender",
+            "start": 40,
+            "value": "female"
+          },
+          {
+            "end": 66,
+            "entity": "gesture",
+            "start": 46,
+            "value": "pointing right"
+          }
+        ],
+        "intent": "move",
+        "text": "begin navigating the location where the woman pointing to the left is"
+      },
+      {
+        "entities": [
+          {
+            "end": 49,
+            "entity": "name",
+            "start": 44,
+            "value": "tracy"
+          }
+        ],
+        "intent": "move",
+        "text": "start searching in to the front of wherever tracy is"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "name",
+            "start": 15,
+            "value": "jordan"
+          },
+          {
+            "end": 50,
+            "entity": "location",
+            "start": 43,
+            "value": "cutlery"
+          }
+        ],
+        "intent": "move",
+        "text": "come nearby to jordan that is close to the cutlery"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 14,
+            "value": "center table"
+          }
+        ],
+        "intent": "move",
+        "text": "nearby at the center table"
+      },
+      {
+        "entities": [
+          {
+            "end": 28,
+            "entity": "location",
+            "start": 22,
+            "value": "drawer"
+          }
+        ],
+        "intent": "move",
+        "text": "into the front of the drawer"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "direction",
+            "start": 14,
+            "value": "down"
+          }
+        ],
+        "intent": "move",
+        "text": "start running backwards"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "location",
+            "start": 12,
+            "value": "snacks"
+          }
+        ],
+        "intent": "move",
+        "text": "move by the snacks"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "pronoun",
+            "start": 14,
+            "value": "her"
+          },
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 18,
+            "value": "him"
+          },
+          {
+            "end": 42,
+            "entity": "location",
+            "start": 34,
+            "value": "workshop"
+          }
+        ],
+        "intent": "move",
+        "text": "stand next to her him is near the workshop"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "location",
+            "start": 17,
+            "value": "hallway trashbin"
+          }
+        ],
+        "intent": "move",
+        "text": "wait next to the hallway trashbin"
+      },
+      {
+        "entities": [
+          {
+            "end": 32,
+            "entity": "location",
+            "start": 18,
+            "value": "right bookcase"
+          }
+        ],
+        "intent": "move",
+        "text": "get moving by the right bookcase"
+      },
+      {
+        "entities": [
+          {
+            "end": 10,
+            "entity": "pronoun",
+            "start": 8,
+            "value": "me"
+          },
+          {
+            "end": 14,
+            "entity": "pronoun",
+            "start": 11,
+            "value": "me"
+          },
+          {
+            "end": 35,
+            "entity": "location",
+            "start": 29,
+            "value": "office"
+          }
+        ],
+        "intent": "move",
+        "text": "come by me i'm nearby at the office"
+      },
+      {
+        "entities": [
+          {
+            "end": 43,
+            "entity": "location",
+            "start": 27,
+            "value": "bathroom cabinet"
+          }
+        ],
+        "intent": "move",
+        "text": "get traveling close at the bathroom cabinet"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "location",
+            "start": 12,
+            "value": "car"
+          }
+        ],
+        "intent": "move",
+        "text": "next to the car"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "name",
+            "start": 20,
+            "value": "mark"
+          }
+        ],
+        "intent": "move",
+        "text": "roam the area where mark are"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "location",
+            "start": 9,
+            "value": "freezer"
+          }
+        ],
+        "intent": "move",
+        "text": "into the freezer"
+      },
+      {
+        "entities": [
+          {
+            "end": 34,
+            "entity": "location",
+            "start": 25,
+            "value": "tableware"
+          }
+        ],
+        "intent": "move",
+        "text": "get driving close at the tableware"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "location",
+            "start": 18,
+            "value": "kitchen cabinet"
+          }
+        ],
+        "intent": "move",
+        "text": "come close at the kitchen cabinet"
+      },
+      {
+        "entities": [
+          {
+            "end": 11,
+            "entity": "pronoun",
+            "start": 9,
+            "value": "me"
+          },
+          {
+            "end": 16,
+            "entity": "pronoun",
+            "start": 12,
+            "value": "me"
+          },
+          {
+            "end": 28,
+            "entity": "location",
+            "start": 24,
+            "value": "door"
+          }
+        ],
+        "intent": "move",
+        "text": "stand on me i am by the door"
+      },
+      {
+        "entities": [
+          {
+            "end": 11,
+            "entity": "pronoun",
+            "start": 9,
+            "value": "me"
+          },
+          {
+            "end": 14,
+            "entity": "pronoun",
+            "start": 12,
+            "value": "me"
+          },
+          {
+            "end": 31,
+            "entity": "location",
+            "start": 24,
+            "value": "dresser"
+          }
+        ],
+        "intent": "move",
+        "text": "stand at me Im near the dresser"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "direction",
+            "start": 12,
+            "value": "down"
+          }
+        ],
+        "intent": "move",
+        "text": "begin going rearward"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "direction",
+            "start": 19,
+            "value": "left"
+          }
+        ],
+        "intent": "move",
+        "text": "begin advancing at left"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "pronoun",
+            "start": 14,
+            "value": "me"
+          },
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 17,
+            "value": "me"
+          },
+          {
+            "end": 41,
+            "entity": "location",
+            "start": 29,
+            "value": "kitchen rack"
+          }
+        ],
+        "intent": "move",
+        "text": "come close at me I am by the kitchen rack"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "me"
+          },
+          {
+            "end": 18,
+            "entity": "pronoun",
+            "start": 16,
+            "value": "me"
+          },
+          {
+            "end": 45,
+            "entity": "location",
+            "start": 32,
+            "value": "balcony shelf"
+          }
+        ],
+        "intent": "move",
+        "text": "stand nearby me im close to the balcony shelf"
+      },
+      {
+        "entities": [
+          {
+            "end": 34,
+            "entity": "location",
+            "start": 20,
+            "value": "kitchencounter"
+          }
+        ],
+        "intent": "move",
+        "text": "get moving near the kitchencounter"
+      },
+      {
+        "entities": [
+          {
+            "end": 28,
+            "entity": "gender",
+            "start": 25,
+            "value": "male"
+          }
+        ],
+        "intent": "move",
+        "text": "approach by wherever the guy is"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "location",
+            "start": 11,
+            "value": "bidet"
+          }
+        ],
+        "intent": "move",
+        "text": "nearby the bidet"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "pronoun",
+            "start": 15,
+            "value": "me"
+          },
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 18,
+            "value": "me"
+          },
+          {
+            "end": 48,
+            "entity": "location",
+            "start": 35,
+            "value": "hallway table"
+          }
+        ],
+        "intent": "move",
+        "text": "stand close by me I'm close at the hallway table"
+      },
+      {
+        "entities": [
+          {
+            "end": 31,
+            "entity": "gender",
+            "start": 22,
+            "value": "male"
+          },
+          {
+            "end": 35,
+            "entity": "pronoun",
+            "start": 32,
+            "value": "her"
+          },
+          {
+            "end": 59,
+            "entity": "location",
+            "start": 50,
+            "value": "microwave"
+          }
+        ],
+        "intent": "move",
+        "text": "approach close by the gentleman her is nearby the microwave"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "pronoun",
+            "start": 18,
+            "value": "me"
+          }
+        ],
+        "intent": "move",
+        "text": "approach wherever I am"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "location",
+            "start": 13,
+            "value": "cutlery drawer"
+          }
+        ],
+        "intent": "move",
+        "text": "close by the cutlery drawer"
+      },
+      {
+        "entities": [
+          {
+            "end": 46,
+            "entity": "gesture",
+            "start": 33,
+            "value": "pointing left"
+          },
+          {
+            "end": 74,
+            "entity": "location",
+            "start": 69,
+            "value": "plant"
+          }
+        ],
+        "intent": "move",
+        "text": "stand on the front of the person pointing left that's closely to the plant"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "location",
+            "start": 21,
+            "value": "center table"
+          }
+        ],
+        "intent": "move",
+        "text": "search nearby at the center table"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "him"
+          },
+          {
+            "end": 27,
+            "entity": "direction",
+            "start": 23,
+            "value": "left"
+          }
+        ],
+        "intent": "move",
+        "text": "start traveling on him left"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "location",
+            "start": 23,
+            "value": "dishwasher"
+          }
+        ],
+        "intent": "move",
+        "text": "begin advancing by the dishwasher"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "direction",
+            "start": 14,
+            "value": "down"
+          }
+        ],
+        "intent": "move",
+        "text": "begin driving backwards"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "direction",
+            "start": 14,
+            "value": "up"
+          }
+        ],
+        "intent": "move",
+        "text": "get traveling forward"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "location",
+            "start": 7,
+            "value": "kitchen shelf"
+          }
+        ],
+        "intent": "move",
+        "text": "at the kitchen shelf"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "direction",
+            "start": 14,
+            "value": "up"
+          }
+        ],
+        "intent": "move",
+        "text": "start driving front"
+      },
+      {
+        "entities": [
+          {
+            "end": 25,
+            "entity": "pronoun",
+            "start": 21,
+            "value": "them"
+          }
+        ],
+        "intent": "move",
+        "text": "come at the front of them"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "pronoun",
+            "start": 20,
+            "value": "her"
+          },
+          {
+            "end": 55,
+            "entity": "location",
+            "start": 51,
+            "value": "desk"
+          }
+        ],
+        "intent": "move",
+        "text": "come to the rear of her thats into the back of the desk"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "get accompanying"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "follow"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "get going at my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "track"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "begin roaming after"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "accompany"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "pursue"
+      },
+      {
+        "entities": [
+          {
+            "end": 9,
+            "entity": "pronoun",
+            "start": 7,
+            "value": "me"
+          },
+          {
+            "end": 14,
+            "entity": "pronoun",
+            "start": 10,
+            "value": "me"
+          },
+          {
+            "end": 35,
+            "entity": "location",
+            "start": 28,
+            "value": "cabinet"
+          }
+        ],
+        "intent": "follow",
+        "text": "follow me i am close at the cabinet"
+      },
+      {
+        "entities": [
+          {
+            "end": 37,
+            "entity": "location",
+            "start": 24,
+            "value": "left bookcase"
+          }
+        ],
+        "intent": "follow",
+        "text": "get accompanying to the left bookcase"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay by my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay after"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "me"
+          },
+          {
+            "end": 26,
+            "entity": "pronoun",
+            "start": 22,
+            "value": "me"
+          },
+          {
+            "end": 54,
+            "entity": "location",
+            "start": 42,
+            "value": "display case"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin accompanying me I am closely to the display case"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay with"
+      },
+      {
+        "entities": [
+          {
+            "end": 31,
+            "entity": "gender",
+            "start": 27,
+            "value": "male"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin walking with the the male"
+      },
+      {
+        "entities": [
+          {
+            "end": 36,
+            "entity": "name",
+            "start": 32,
+            "value": "liza"
+          },
+          {
+            "end": 40,
+            "entity": "pronoun",
+            "start": 37,
+            "value": "him"
+          },
+          {
+            "end": 63,
+            "entity": "location",
+            "start": 57,
+            "value": "drawer"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin accompanying close to the liza him is close by the drawer"
+      },
+      {
+        "entities": [
+          {
+            "end": 7,
+            "entity": "pronoun",
+            "start": 5,
+            "value": "me"
+          }
+        ],
+        "intent": "follow",
+        "text": "stay me"
+      },
+      {
+        "entities": [
+          {
+            "end": 25,
+            "entity": "pronoun",
+            "start": 23,
+            "value": "me"
+          },
+          {
+            "end": 30,
+            "entity": "pronoun",
+            "start": 26,
+            "value": "me"
+          },
+          {
+            "end": 49,
+            "entity": "location",
+            "start": 41,
+            "value": "bookcase"
+          }
+        ],
+        "intent": "follow",
+        "text": "get accompanying after me i am in to the bookcase"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "go by my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 37,
+            "entity": "location",
+            "start": 24,
+            "value": "battery table"
+          }
+        ],
+        "intent": "follow",
+        "text": "get accompanying to the battery table"
+      },
+      {
+        "entities": [
+          {
+            "end": 30,
+            "entity": "location",
+            "start": 22,
+            "value": "bartable"
+          }
+        ],
+        "intent": "follow",
+        "text": "get following with to bartable"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "start roaming by my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay close at"
+      },
+      {
+        "entities": [
+          {
+            "end": 5,
+            "entity": "pronoun",
+            "start": 3,
+            "value": "me"
+          },
+          {
+            "end": 8,
+            "entity": "pronoun",
+            "start": 6,
+            "value": "me"
+          },
+          {
+            "end": 33,
+            "entity": "location",
+            "start": 21,
+            "value": "dinner chair"
+          }
+        ],
+        "intent": "follow",
+        "text": "be me im next to the dinner chair"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay at my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 10,
+            "entity": "pronoun",
+            "start": 7,
+            "value": "her"
+          }
+        ],
+        "intent": "follow",
+        "text": "follow her"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "him"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin pursuing the him"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "location",
+            "start": 22,
+            "value": "door"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin pursuing to the door"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "pronoun",
+            "start": 15,
+            "value": "him"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin tracking him"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "be at my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "me"
+          },
+          {
+            "end": 24,
+            "entity": "pronoun",
+            "start": 22,
+            "value": "me"
+          },
+          {
+            "end": 49,
+            "entity": "location",
+            "start": 40,
+            "value": "appliance"
+          }
+        ],
+        "intent": "follow",
+        "text": "start walking with me Im closely to the appliance"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "location",
+            "start": 13,
+            "value": "shower"
+          }
+        ],
+        "intent": "follow",
+        "text": "stay near to shower"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "pronoun",
+            "start": 16,
+            "value": "me"
+          }
+        ],
+        "intent": "follow",
+        "text": "stay closely to me"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay behind"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "gender",
+            "start": 18,
+            "value": "female"
+          }
+        ],
+        "intent": "follow",
+        "text": "stay with the the lady"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "pronoun",
+            "start": 16,
+            "value": "me"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin following me"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "pronoun",
+            "start": 22,
+            "value": "me"
+          },
+          {
+            "end": 27,
+            "entity": "pronoun",
+            "start": 25,
+            "value": "me"
+          },
+          {
+            "end": 49,
+            "entity": "location",
+            "start": 42,
+            "value": "bedroom"
+          }
+        ],
+        "intent": "follow",
+        "text": "start staying next to me Im nearby at the bedroom"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "follow by my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 28,
+            "entity": "pronoun",
+            "start": 25,
+            "value": "her"
+          }
+        ],
+        "intent": "follow",
+        "text": "get staying close at the her"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "location",
+            "start": 16,
+            "value": "bed"
+          }
+        ],
+        "intent": "follow",
+        "text": "get pursuing to bed"
+      },
+      {
+        "entities": [
+          {
+            "end": 32,
+            "entity": "location",
+            "start": 19,
+            "value": "gpsr entrance"
+          }
+        ],
+        "intent": "follow",
+        "text": "start following to gpsr entrance"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "pronoun",
+            "start": 15,
+            "value": "me"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin pursuing me"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "follow at my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "her"
+          }
+        ],
+        "intent": "follow",
+        "text": "start tracking the her"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "start tracking"
+      },
+      {
+        "entities": [
+          {
+            "end": 5,
+            "entity": "pronoun",
+            "start": 3,
+            "value": "me"
+          },
+          {
+            "end": 8,
+            "entity": "pronoun",
+            "start": 6,
+            "value": "me"
+          },
+          {
+            "end": 39,
+            "entity": "location",
+            "start": 24,
+            "value": "kitchen counter"
+          }
+        ],
+        "intent": "follow",
+        "text": "be me im closely to the kitchen counter"
+      },
+      {
+        "entities": [
+          {
+            "end": 39,
+            "entity": "gesture",
+            "start": 33,
+            "value": "waving"
+          }
+        ],
+        "intent": "follow",
+        "text": "get staying after the the person waving"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "pronoun",
+            "start": 15,
+            "value": "him"
+          }
+        ],
+        "intent": "follow",
+        "text": "start tracking him"
+      },
+      {
+        "entities": [
+          {
+            "end": 34,
+            "entity": "pronoun",
+            "start": 31,
+            "value": "her"
+          }
+        ],
+        "intent": "follow",
+        "text": "get accompanying nearby to the her"
+      },
+      {
+        "entities": [
+          {
+            "end": 8,
+            "entity": "pronoun",
+            "start": 6,
+            "value": "me"
+          },
+          {
+            "end": 11,
+            "entity": "pronoun",
+            "start": 9,
+            "value": "me"
+          },
+          {
+            "end": 33,
+            "entity": "location",
+            "start": 19,
+            "value": "entrance shelf"
+          }
+        ],
+        "intent": "follow",
+        "text": "track me Im by the entrance shelf"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "location",
+            "start": 16,
+            "value": "counter"
+          }
+        ],
+        "intent": "follow",
+        "text": "get tracking to counter"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay close by"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "name",
+            "start": 23,
+            "value": "anna"
+          },
+          {
+            "end": 60,
+            "entity": "location",
+            "start": 50,
+            "value": "livingroom"
+          }
+        ],
+        "intent": "follow",
+        "text": "get roaming nearby the anna that is nearby to the livingroom"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "me"
+          },
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 16,
+            "value": "me"
+          },
+          {
+            "end": 49,
+            "entity": "location",
+            "start": 45,
+            "value": "room"
+          }
+        ],
+        "intent": "follow",
+        "text": "get tracking me i am into the vincity of the room"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "location",
+            "start": 14,
+            "value": "hallway table"
+          }
+        ],
+        "intent": "follow",
+        "text": "track with to hallway table"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "me"
+          }
+        ],
+        "intent": "follow",
+        "text": "start accompanying me"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "me"
+          },
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 16,
+            "value": "me"
+          },
+          {
+            "end": 59,
+            "entity": "location",
+            "start": 44,
+            "value": "washing machine"
+          }
+        ],
+        "intent": "follow",
+        "text": "get pursuing me I am in to the front of the washing machine"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "pronoun",
+            "start": 23,
+            "value": "her"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin accompanying the her"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "him"
+          },
+          {
+            "end": 40,
+            "entity": "location",
+            "start": 36,
+            "value": "door"
+          }
+        ],
+        "intent": "follow",
+        "text": "start pursuing the him close at the door"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "gender",
+            "start": 23,
+            "value": "male"
+          },
+          {
+            "end": 56,
+            "entity": "gesture",
+            "start": 33,
+            "value": "rising right arm"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin pursuing the the boy is it raising their right arm"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "gender",
+            "start": 21,
+            "value": "female"
+          },
+          {
+            "end": 52,
+            "entity": "gesture",
+            "start": 32,
+            "value": "pointing right"
+          },
+          {
+            "end": 72,
+            "entity": "location",
+            "start": 68,
+            "value": "sofa"
+          }
+        ],
+        "intent": "follow",
+        "text": "get pursuing the the woman it's pointing to the left closely to the sofa"
+      },
+      {
+        "entities": [
+          {
+            "end": 5,
+            "entity": "pronoun",
+            "start": 3,
+            "value": "me"
+          },
+          {
+            "end": 10,
+            "entity": "pronoun",
+            "start": 6,
+            "value": "me"
+          },
+          {
+            "end": 40,
+            "entity": "location",
+            "start": 34,
+            "value": "shower"
+          }
+        ],
+        "intent": "follow",
+        "text": "be me i am in to the front of the shower"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "location",
+            "start": 19,
+            "value": "hall"
+          }
+        ],
+        "intent": "follow",
+        "text": "start following to hall"
+      },
+      {
+        "entities": [
+          {
+            "end": 5,
+            "entity": "pronoun",
+            "start": 3,
+            "value": "me"
+          },
+          {
+            "end": 9,
+            "entity": "pronoun",
+            "start": 6,
+            "value": "me"
+          },
+          {
+            "end": 38,
+            "entity": "location",
+            "start": 24,
+            "value": "right bookcase"
+          }
+        ],
+        "intent": "follow",
+        "text": "be me I'm nearby at the right bookcase"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay near"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "begin going at my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 12,
+            "entity": "pronoun",
+            "start": 10,
+            "value": "me"
+          },
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "me"
+          },
+          {
+            "end": 28,
+            "entity": "location",
+            "start": 23,
+            "value": "shelf"
+          }
+        ],
+        "intent": "follow",
+        "text": "accompany me im by the shelf"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "track at my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "name",
+            "start": 23,
+            "value": "mark"
+          },
+          {
+            "end": 55,
+            "entity": "location",
+            "start": 42,
+            "value": "kitchen stuff"
+          }
+        ],
+        "intent": "follow",
+        "text": "start staying with the mark that's by the kitchen stuff"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "me"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin accompanying me"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay with at my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 31,
+            "entity": "name",
+            "start": 26,
+            "value": "louis"
+          },
+          {
+            "end": 65,
+            "entity": "location",
+            "start": 59,
+            "value": "office"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin traveling after the louis that is on the back of the office"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "location",
+            "start": 22,
+            "value": "shelf"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin accompanying to shelf"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "be by my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "stay"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 17,
+            "value": "her"
+          },
+          {
+            "end": 24,
+            "entity": "pronoun",
+            "start": 21,
+            "value": "him"
+          },
+          {
+            "end": 46,
+            "entity": "location",
+            "start": 39,
+            "value": "dresser"
+          }
+        ],
+        "intent": "follow",
+        "text": "get pursuing the her him is nearby the dresser"
+      },
+      {
+        "entities": [
+          {
+            "end": 30,
+            "entity": "location",
+            "start": 18,
+            "value": "kitchen rack"
+          }
+        ],
+        "intent": "follow",
+        "text": "start pursuing to kitchen rack"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "get going behind"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "begin traveling by my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "pronoun",
+            "start": 20,
+            "value": "me"
+          },
+          {
+            "end": 25,
+            "entity": "pronoun",
+            "start": 23,
+            "value": "me"
+          },
+          {
+            "end": 49,
+            "entity": "location",
+            "start": 39,
+            "value": "couchtable"
+          }
+        ],
+        "intent": "follow",
+        "text": "start staying after me Im close at the couchtable"
+      },
+      {
+        "entities": [
+          {
+            "end": 9,
+            "entity": "pronoun",
+            "start": 6,
+            "value": "him"
+          }
+        ],
+        "intent": "follow",
+        "text": "track him"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "gender",
+            "start": 13,
+            "value": "male"
+          },
+          {
+            "end": 40,
+            "entity": "gesture",
+            "start": 24,
+            "value": "rising right arm"
+          }
+        ],
+        "intent": "follow",
+        "text": "stay the the man that's rising right arm"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "pronoun",
+            "start": 11,
+            "value": "him"
+          }
+        ],
+        "intent": "follow",
+        "text": "pursue the him"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "get walking nearby"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "pronoun",
+            "start": 21,
+            "value": "her"
+          },
+          {
+            "end": 28,
+            "entity": "pronoun",
+            "start": 25,
+            "value": "her"
+          },
+          {
+            "end": 47,
+            "entity": "location",
+            "start": 39,
+            "value": "bathroom"
+          }
+        ],
+        "intent": "follow",
+        "text": "get staying with the her her is at the bathroom"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "location",
+            "start": 18,
+            "value": "tableware"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin tracking to tableware"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 12,
+            "value": "her"
+          }
+        ],
+        "intent": "follow",
+        "text": "stay nearby her"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "track by my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "accompany at my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "travel at my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "start advancing by my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "begin staying after"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "begin navigating at my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 7,
+            "entity": "pronoun",
+            "start": 5,
+            "value": "me"
+          },
+          {
+            "end": 10,
+            "entity": "pronoun",
+            "start": 8,
+            "value": "me"
+          },
+          {
+            "end": 24,
+            "entity": "location",
+            "start": 20,
+            "value": "exit"
+          }
+        ],
+        "intent": "follow",
+        "text": "stay me Im near the exit"
+      },
+      {
+        "entities": [
+          {
+            "end": 27,
+            "entity": "gender",
+            "start": 18,
+            "value": "male"
+          }
+        ],
+        "intent": "follow",
+        "text": "accompany the the gentleman"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "me"
+          },
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 16,
+            "value": "me"
+          },
+          {
+            "end": 53,
+            "entity": "location",
+            "start": 43,
+            "value": "dishwasher"
+          }
+        ],
+        "intent": "follow",
+        "text": "get pursuing me i am to the vincity of the dishwasher"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "pursue by my side"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "walk after"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "pronoun",
+            "start": 19,
+            "value": "her"
+          }
+        ],
+        "intent": "follow",
+        "text": "begin pursuing the her"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "pronoun",
+            "start": 14,
+            "value": "me"
+          },
+          {
+            "end": 20,
+            "entity": "pronoun",
+            "start": 17,
+            "value": "me"
+          },
+          {
+            "end": 48,
+            "entity": "location",
+            "start": 30,
+            "value": "left bedside table"
+          }
+        ],
+        "intent": "follow",
+        "text": "get following me i'm near the left bedside table"
+      },
+      {
+        "entities": [],
+        "intent": "follow",
+        "text": "migrates by my side"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "object",
+            "start": 18,
+            "value": "chocosticks"
+          },
+          {
+            "end": 77,
+            "entity": "gesture",
+            "start": 55,
+            "value": "rising left arm"
+          }
+        ],
+        "intent": "pick",
+        "text": "start picking the chocosticks where the person that is raising their left arm are"
+      },
+      {
+        "entities": [
+          {
+            "end": 9,
+            "entity": "pronoun",
+            "start": 5,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "hold that"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          },
+          {
+            "end": 48,
+            "entity": "location",
+            "start": 36,
+            "value": "bistro table"
+          }
+        ],
+        "intent": "pick",
+        "text": "start picking something next to the bistro table"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          },
+          {
+            "end": 55,
+            "entity": "location",
+            "start": 41,
+            "value": "entrance shelf"
+          }
+        ],
+        "intent": "pick",
+        "text": "start grabing any object that's near the entrance shelf"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "object",
+            "start": 18,
+            "value": "water"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin holding the water"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "object",
+            "start": 18,
+            "value": "chocosticks"
+          },
+          {
+            "end": 50,
+            "entity": "location",
+            "start": 43,
+            "value": "hallway"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin picking the chocosticks close at the hallway"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "object",
+            "start": 16,
+            "value": "box"
+          },
+          {
+            "end": 62,
+            "entity": "gesture",
+            "start": 48,
+            "value": "pointing right"
+          }
+        ],
+        "intent": "pick",
+        "text": "get grabing the box near the spot where someone pointing right are"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "object",
+            "start": 9,
+            "value": "tea spoon"
+          },
+          {
+            "end": 46,
+            "entity": "pronoun",
+            "start": 43,
+            "value": "me"
+          }
+        ],
+        "intent": "pick",
+        "text": "take the tea spoon close to the room where I'm"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "pronoun",
+            "start": 14,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "start grabing it"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "object",
+            "start": 18,
+            "value": "dish"
+          },
+          {
+            "end": 55,
+            "entity": "location",
+            "start": 44,
+            "value": "flight case"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin holding the dish that is close to the flight case"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin taking that up"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "object",
+            "start": 18,
+            "value": "mixdrink"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin picking the mixdrink"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "anything",
+            "start": 12,
+            "value": "anything"
+          },
+          {
+            "end": 51,
+            "entity": "pronoun",
+            "start": 49,
+            "value": "me"
+          }
+        ],
+        "intent": "pick",
+        "text": "get holding any object closely to the area where im"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "anything",
+            "start": 13,
+            "value": "anything"
+          },
+          {
+            "end": 46,
+            "entity": "name",
+            "start": 40,
+            "value": "daniel"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin taking anything close by wherever daniel are"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          },
+          {
+            "end": 32,
+            "entity": "name",
+            "start": 29,
+            "value": "amy"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin picking anything where amy are"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "object",
+            "start": 16,
+            "value": "alike"
+          },
+          {
+            "end": 38,
+            "entity": "location",
+            "start": 29,
+            "value": "sideboard"
+          }
+        ],
+        "intent": "pick",
+        "text": "get holding the alike by the sideboard"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "anything",
+            "start": 5,
+            "value": "anything"
+          }
+        ],
+        "intent": "pick",
+        "text": "grab something"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "object",
+            "start": 18,
+            "value": "nuts"
+          }
+        ],
+        "intent": "pick",
+        "text": "start picking the nuts"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "anything",
+            "start": 5,
+            "value": "anything"
+          },
+          {
+            "end": 31,
+            "entity": "name",
+            "start": 28,
+            "value": "mia"
+          }
+        ],
+        "intent": "pick",
+        "text": "pick the object by wherever mia are"
+      },
+      {
+        "entities": [
+          {
+            "end": 31,
+            "entity": "object",
+            "start": 18,
+            "value": "kitchen stuff"
+          }
+        ],
+        "intent": "pick",
+        "text": "start getting the kitchen stuff"
+      },
+      {
+        "entities": [
+          {
+            "end": 29,
+            "entity": "object",
+            "start": 18,
+            "value": "banana milk"
+          },
+          {
+            "end": 64,
+            "entity": "gesture",
+            "start": 44,
+            "value": "pointing right"
+          }
+        ],
+        "intent": "pick",
+        "text": "start holding the banana milk where whoever pointing to the left are"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "anything",
+            "start": 13,
+            "value": "anything"
+          },
+          {
+            "end": 36,
+            "entity": "gender",
+            "start": 32,
+            "value": "female"
+          }
+        ],
+        "intent": "pick",
+        "text": "start taking a object where the girl are"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          },
+          {
+            "end": 50,
+            "entity": "location",
+            "start": 38,
+            "value": "dinner chair"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin getting any object close at the dinner chair"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "anything",
+            "start": 5,
+            "value": "anything"
+          },
+          {
+            "end": 37,
+            "entity": "pronoun",
+            "start": 33,
+            "value": "me"
+          }
+        ],
+        "intent": "pick",
+        "text": "grab the object next to wherever i am"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          },
+          {
+            "end": 45,
+            "entity": "location",
+            "start": 38,
+            "value": "bedroom"
+          }
+        ],
+        "intent": "pick",
+        "text": "start holding something nearby at the bedroom"
+      },
+      {
+        "entities": [
+          {
+            "end": 28,
+            "entity": "object",
+            "start": 18,
+            "value": "cornflakes"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin holding the cornflakes"
+      },
+      {
+        "entities": [
+          {
+            "end": 16,
+            "entity": "pronoun",
+            "start": 12,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "get picking that"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin holding a object"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "anything",
+            "start": 12,
+            "value": "anything"
+          },
+          {
+            "end": 46,
+            "entity": "location",
+            "start": 38,
+            "value": "tv-stand"
+          }
+        ],
+        "intent": "pick",
+        "text": "get grabing anything it's next to the tv-stand"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "anything",
+            "start": 13,
+            "value": "anything"
+          },
+          {
+            "end": 40,
+            "entity": "location",
+            "start": 32,
+            "value": "tv-stand"
+          }
+        ],
+        "intent": "pick",
+        "text": "start taking anything in to the tv-stand"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "anything",
+            "start": 12,
+            "value": "anything"
+          },
+          {
+            "end": 56,
+            "entity": "location",
+            "start": 44,
+            "value": "center table"
+          }
+        ],
+        "intent": "pick",
+        "text": "get picking a object in to the front of the center table"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "object",
+            "start": 9,
+            "value": "toothpaste"
+          },
+          {
+            "end": 42,
+            "entity": "location",
+            "start": 29,
+            "value": "balcony shelf"
+          }
+        ],
+        "intent": "pick",
+        "text": "grab the toothpaste near the balcony shelf"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "anything",
+            "start": 11,
+            "value": "anything"
+          }
+        ],
+        "intent": "pick",
+        "text": "get taking a object"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "object",
+            "start": 9,
+            "value": "paper"
+          },
+          {
+            "end": 27,
+            "entity": "pronoun",
+            "start": 24,
+            "value": "him"
+          }
+        ],
+        "intent": "pick",
+        "text": "grab the paper wherever him is"
+      },
+      {
+        "entities": [
+          {
+            "end": 12,
+            "entity": "anything",
+            "start": 4,
+            "value": "anything"
+          },
+          {
+            "end": 31,
+            "entity": "location",
+            "start": 26,
+            "value": "fruit"
+          }
+        ],
+        "intent": "pick",
+        "text": "get anything close to the fruit"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "pronoun",
+            "start": 11,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "get taking it"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "anything",
+            "start": 12,
+            "value": "anything"
+          }
+        ],
+        "intent": "pick",
+        "text": "get getting something"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "pronoun",
+            "start": 12,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "get grabing it"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "anything",
+            "start": 5,
+            "value": "anything"
+          },
+          {
+            "end": 45,
+            "entity": "pronoun",
+            "start": 42,
+            "value": "me"
+          }
+        ],
+        "intent": "pick",
+        "text": "pick a object close to the location where i'm"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "object",
+            "start": 18,
+            "value": "big dish"
+          },
+          {
+            "end": 53,
+            "entity": "gender",
+            "start": 49,
+            "value": "female"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin holding the big dish close at wherever the lady are"
+      },
+      {
+        "entities": [
+          {
+            "end": 33,
+            "entity": "object",
+            "start": 17,
+            "value": "dishwashing soap"
+          },
+          {
+            "end": 50,
+            "entity": "location",
+            "start": 41,
+            "value": "left rack"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin taking the dishwashing soap at the left rack"
+      },
+      {
+        "entities": [
+          {
+            "end": 18,
+            "entity": "pronoun",
+            "start": 14,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "start getting that"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "object",
+            "start": 16,
+            "value": "soap"
+          },
+          {
+            "end": 34,
+            "entity": "pronoun",
+            "start": 30,
+            "value": "me"
+          }
+        ],
+        "intent": "pick",
+        "text": "get holding the soap wherever i am"
+      },
+      {
+        "entities": [
+          {
+            "end": 17,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin taking that"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "object",
+            "start": 9,
+            "value": "pasta"
+          },
+          {
+            "end": 36,
+            "entity": "location",
+            "start": 24,
+            "value": "bistro table"
+          }
+        ],
+        "intent": "pick",
+        "text": "pick the pasta into the bistro table"
+      },
+      {
+        "entities": [
+          {
+            "end": 20,
+            "entity": "object",
+            "start": 9,
+            "value": "honey chips"
+          }
+        ],
+        "intent": "pick",
+        "text": "pick the honey chips"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "object",
+            "start": 8,
+            "value": "spponge"
+          },
+          {
+            "end": 35,
+            "entity": "location",
+            "start": 29,
+            "value": "drawer"
+          }
+        ],
+        "intent": "pick",
+        "text": "get the spponge close by the drawer"
+      },
+      {
+        "entities": [
+          {
+            "end": 12,
+            "entity": "object",
+            "start": 8,
+            "value": "kiwi"
+          }
+        ],
+        "intent": "pick",
+        "text": "get the kiwi"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "anything",
+            "start": 13,
+            "value": "anything"
+          },
+          {
+            "end": 51,
+            "entity": "gesture",
+            "start": 36,
+            "value": "rising left arm"
+          }
+        ],
+        "intent": "pick",
+        "text": "start taking anything where someone rising left arm is"
+      },
+      {
+        "entities": [
+          {
+            "end": 36,
+            "entity": "object",
+            "start": 18,
+            "value": "strawberry cookies"
+          },
+          {
+            "end": 56,
+            "entity": "gender",
+            "start": 47,
+            "value": "male"
+          },
+          {
+            "end": 84,
+            "entity": "gesture",
+            "start": 63,
+            "value": "pointing left"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin holding the strawberry cookies where the gentleman it is pointing to the right is"
+      },
+      {
+        "entities": [
+          {
+            "end": 9,
+            "entity": "pronoun",
+            "start": 5,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "hold that up"
+      },
+      {
+        "entities": [
+          {
+            "end": 26,
+            "entity": "object",
+            "start": 16,
+            "value": "chopsticks"
+          },
+          {
+            "end": 63,
+            "entity": "location",
+            "start": 52,
+            "value": "couch table"
+          }
+        ],
+        "intent": "pick",
+        "text": "get picking the chopsticks in to the vincity of the couch table"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          },
+          {
+            "end": 36,
+            "entity": "gender",
+            "start": 33,
+            "value": "male"
+          }
+        ],
+        "intent": "pick",
+        "text": "start getting a object where the guy is"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin taking it"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "object",
+            "start": 18,
+            "value": "tray"
+          },
+          {
+            "end": 44,
+            "entity": "location",
+            "start": 34,
+            "value": "towel rail"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin picking the tray nearby the towel rail"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 13,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "start taking it"
+      },
+      {
+        "entities": [
+          {
+            "end": 23,
+            "entity": "object",
+            "start": 18,
+            "value": "chips"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin holding the chips"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "anything",
+            "start": 4,
+            "value": "anything"
+          },
+          {
+            "end": 24,
+            "entity": "pronoun",
+            "start": 21,
+            "value": "him"
+          }
+        ],
+        "intent": "pick",
+        "text": "get any object where him is"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "pronoun",
+            "start": 11,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "get taking that"
+      },
+      {
+        "entities": [
+          {
+            "end": 15,
+            "entity": "object",
+            "start": 8,
+            "value": "ice-tea"
+          }
+        ],
+        "intent": "pick",
+        "text": "get the ice-tea"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "pronoun",
+            "start": 12,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "get picking it"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "anything",
+            "start": 5,
+            "value": "anything"
+          },
+          {
+            "end": 38,
+            "entity": "location",
+            "start": 27,
+            "value": "left planks"
+          }
+        ],
+        "intent": "pick",
+        "text": "pick a object close to the left planks"
+      },
+      {
+        "entities": [
+          {
+            "end": 31,
+            "entity": "object",
+            "start": 18,
+            "value": "party cracker"
+          },
+          {
+            "end": 51,
+            "entity": "pronoun",
+            "start": 47,
+            "value": "me"
+          }
+        ],
+        "intent": "pick",
+        "text": "start getting the party cracker the area where i am"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "anything",
+            "start": 11,
+            "value": "anything"
+          },
+          {
+            "end": 39,
+            "entity": "location",
+            "start": 35,
+            "value": "door"
+          }
+        ],
+        "intent": "pick",
+        "text": "get taking the object its near the door"
+      },
+      {
+        "entities": [
+          {
+            "end": 21,
+            "entity": "object",
+            "start": 16,
+            "value": "knife"
+          },
+          {
+            "end": 56,
+            "entity": "location",
+            "start": 48,
+            "value": "trashbin"
+          }
+        ],
+        "intent": "pick",
+        "text": "get holding the knife is it on the front of the trashbin"
+      },
+      {
+        "entities": [
+          {
+            "end": 14,
+            "entity": "pronoun",
+            "start": 12,
+            "value": "it"
+          }
+        ],
+        "intent": "pick",
+        "text": "get getting it"
+      },
+      {
+        "entities": [
+          {
+            "end": 24,
+            "entity": "anything",
+            "start": 14,
+            "value": "anything"
+          },
+          {
+            "end": 54,
+            "entity": "location",
+            "start": 38,
+            "value": "bathroom cabinet"
+          }
+        ],
+        "intent": "pick",
+        "text": "begin getting the object close to the bathroom cabinet"
+      },
+      {
+        "entities": [
+          {
+            "end": 13,
+            "entity": "anything",
+            "start": 5,
+            "value": "anything"
+          },
+          {
+            "end": 45,
+            "entity": "gender",
+            "start": 42,
+            "value": "male"
+          }
+        ],
+        "intent": "pick",
+        "text": "hold anything close to the room where the boy are"
+      },
+      {
+        "entities": [
+          {
+            "end": 19,
+            "entity": "object",
+            "start": 9,
+            "value": "hair spray"
+          }
+        ],
+        "intent": "pick",
+        "text": "pick the hair spray"
+      },
+      {
+        "entities": [
+          {
+            "end": 22,
+            "entity": "object",
+            "start": 17,
+            "value": "known"
+          },
+          {
+            "end": 32,
+            "entity": "pronoun",
+            "start": 29,
+            "value": "her"
+          }
+        ],
+        "intent": "pick",
+        "text": "start taking the known where her is"
+      }
+    ],
+    "entity_synonyms": [
+      {
+        "synonyms": [
+          "rising left arm",
+          "raising their left arm"
+        ],
+        "value": "rising left arm"
+      },
+      {
+        "synonyms": [
+          "rising right arm",
+          "raising their right arm"
+        ],
+        "value": "rising right arm"
+      },
+      {
+        "synonyms": [
+          "pointing to the right",
+          "pointing left"
+        ],
+        "value": "pointing left"
+      },
+      {
+        "synonyms": [
+          "pointing right",
+          "pointing to the left"
+        ],
+        "value": "pointing right"
+      },
+      {
+        "synonyms": [
+          "any object",
+          "something",
+          "the object",
+          "a object",
+          "anything"
+        ],
+        "value": "anything"
+      },
+      {
+        "synonyms": [
+          "I'm",
+          "my",
+          "i am",
+          "i",
+          "me",
+          "I",
+          "Im",
+          "im",
+          "i'm",
+          "I am"
+        ],
+        "value": "me"
+      },
+      {
+        "synonyms": [
+          "it",
+          "that"
+        ],
+        "value": "it"
+      },
+      {
+        "synonyms": [
+          "male",
+          "guy",
+          "man",
+          "boy",
+          "gentleman",
+          "dude"
+        ],
+        "value": "male"
+      },
+      {
+        "synonyms": [
+          "female",
+          "lady",
+          "girl",
+          "woman"
+        ],
+        "value": "female"
+      },
+      {
+        "synonyms": [
+          "up",
+          "forth",
+          "ahead",
+          "forward",
+          "along",
+          "onward",
+          "front"
+        ],
+        "value": "up"
+      },
+      {
+        "synonyms": [
+          "reverse",
+          "rearward",
+          "down",
+          "backward",
+          "backwards",
+          "back",
+          "rear"
+        ],
+        "value": "down"
+      }
+    ],
+    "regex_features": []
+  }
+}

@@ -1,0 +1,76 @@
+%YAML 1.1
+---
+actions:
+- utter_greet
+- action_planner
+- action_execute_plan
+- action_answer_question
+config:
+  store_entities_as_slots: true
+entities:
+- direction
+- gesture
+- location
+- object
+- anything
+- pronoun
+- gender
+- name
+forms: []
+intents:
+- affirm:
+    use_entities: true
+- deny:
+    use_entities: true
+- greet:
+    use_entities: true
+- bye:
+    use_entities: true
+- start:
+    use_entities: true
+- stop:
+    use_entities: true
+- move:
+    use_entities: true
+- follow:
+    use_entities: true
+- pick:
+    use_entities: true
+- question:
+    use_entities: true
+slots:
+  anything:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  direction:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  gender:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  gesture:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  location:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  name:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  object:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+  pronoun:
+    auto_fill: true
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_greet:
+  - text: Hello there, how can a I help you?

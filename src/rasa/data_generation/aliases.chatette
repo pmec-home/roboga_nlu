@@ -1,0 +1,165 @@
+// **************************************************
+//  Utils
+//  Used in multiples intents
+// **************************************************
+// Reference to the robot
+~[bot]
+    ~[robot_name]
+    robot
+    bot
+    chatbot
+    chatterbot
+    machine
+    buddy
+    pal
+    bud
+    dude
+    guy
+    little guy
+    fellow
+    sir
+    friend
+
+~[atthe]
+    ~[nextto] the
+
+~[nextto#on]
+    ~[to-on-at]
+    by
+    ~[to-on-at] the ~[relative_place] of
+    
+~[nextto#close]
+    nearby
+    nearby to
+    nearby at
+    close to
+    close at
+    close by
+    closely to
+    near
+    next to
+
+~[relative_place]
+    front
+    side
+    back
+    rear
+    vincity
+
+~[to-on-at]
+    to
+    at
+    on
+    in
+    in to
+    into
+
+
+~[pronoun]
+    me
+    him
+    her
+    it
+    them
+
+~[don't]
+    don't
+    dont
+    do not
+
+~[didn't]
+    didn't
+    didnt
+    did not
+
+~[dnot]
+    not
+    ~[don't]
+    ~[didn't]
+
+~[isn't]
+    ~[that's] not
+    is not
+    isn't
+
+~[that's]
+    ~[it's]
+    ~[that is]
+
+~[that is]
+    that's
+    thats
+    that is
+
+~[it's]
+    is
+    it is
+    it's
+    its
+    is it
+
+~[im]
+    Im
+    I am
+    I'm
+
+~[you're]
+    you are
+    you're
+
+~[i-would]
+    I
+    would
+    I would
+
+~[we-you]
+    we
+    you
+
+~[that-it]
+    that
+    it
+
+// **************************************************
+//  Polite
+// **************************************************
+//to be used at the start of a phrase
+~[please_]
+    please
+    excuse me
+    excuse me could you please
+    could you
+    could you please
+    would you kindly
+    would you be kind to
+
+//to be used at the end of a phrase
+~[_please]
+    please
+
+~[_please:thanks]
+    please
+    please ~[thanks]
+    ~[thanks]
+
+~[thanks]
+    thanks
+    I appreciate it
+    thanks I appreciate it
+    thank you
+    thank you I appreciate it
+    I would appreciate it
+
+~[greet]
+    hey
+    hi
+    hello
+    greetings
+
+~[iwill/want]
+    I will be waiting for you
+    ~[im] waiting
+    I'll be waiting for you
+    I want you
+    I would like
+    I would like for you

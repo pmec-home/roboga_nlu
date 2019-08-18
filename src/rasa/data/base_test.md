@@ -1,0 +1,682 @@
+## intent:affirm
+- correct
+- let's do it
+- very good
+- affirmative
+- of course
+- yep
+- you are right
+- yeah
+- that is it
+- yes to that
+- yea
+- thats what i want
+- ok
+- si
+- you're goddamn accurate
+- correcto
+- you understood me
+- I'm fine with this
+- what i desire
+- it is what i want
+- gladly
+- true
+- yes
+- nice
+- accurate
+- do it
+- you're goddamn correct
+- you're correct
+- all right
+- precise
+- you're goddamn right
+- perfect
+- Im fine with this
+- valid
+- that sounds good
+- that's it
+- acceptable
+- sounds good
+- definitely
+- very nice
+- indeed
+- is what i want
+- Im all right with that
+- sure
+- Im all right with this
+- i wish it
+- fine
+- exact
+- it's what i want
+- it's correct
+
+## intent:bye
+- i have to go
+- goodbye
+- talk to you soon
+- got to go
+- I'm leaving
+- Im leaving now
+- i talk to you later
+- bye now
+- leaving now
+- i got to go now
+- have to go now
+- later
+- chau
+- i got to go
+- I am going out
+- tchau
+- chao
+- going out
+- farewell
+- i will talk to you soon
+- Im going out
+- bye bye
+- see you around
+- I'm leaving now
+- i got to go now
+- bye
+- i have to go now
+- good bye
+- Im leaving
+- see you
+- heading out
+- I am leaving now
+- have a nice day
+- I am heading out
+- talk to you later
+- I'm going out
+- have a nice afternoon
+- got to go
+- adios
+- see you later
+- I'm heading out
+- Im heading out
+- got to go now
+- leaving
+- adieu
+- have a nice night
+- I am leaving
+- have to go
+- got to go now
+- i got to go
+
+## intent:deny
+- no need
+- nope
+- not quite
+- it's falty
+- I'm not ok with that
+- didnt agree on that
+- no to that
+- not good with that
+- did not agree on that
+- negative
+- did not
+- there is no need
+- definitely no
+- almost
+- you are incorrect
+- incomplete for me
+- falty
+- no
+- you're wrong
+- is not acceptable
+- definitely no to that
+- that is defective
+- it's untrue
+- didnt
+- you're incorrect
+- not all right
+- I'm not good with that
+- is it not all right
+- you're mistaken
+- no way
+- isn't correct
+- incorrect for me
+- mistaken for me
+- not what i agree on
+- thats false
+- thats erroneous
+- is untrue
+- is it missing
+- not what i crave
+- incorrect
+- didn't agree on that
+- imprecise for me
+- bad for me
+- missing
+- not at all
+- didn't
+- definitely did not
+- isn't right
+- is it incorrect
+- not what i mean
+
+## intent:follow
+- get accompanying
+- follow
+- get going at my side
+- track
+- begin roaming after
+- accompany
+- pursue
+- follow [me](pronoun) [i am](pronoun:me) close at the [cabinet](location)
+- get accompanying to the [left bookcase](location)
+- stay by my side
+- stay after
+- begin accompanying [me](pronoun) [I am](pronoun:me) closely to the [display case](location)
+- stay with
+- begin walking with the the [male](gender)
+- begin accompanying close to the [liza](name) [him](pronoun) is close by the [drawer](location)
+- stay [me](pronoun)
+- get accompanying after [me](pronoun) [i am](pronoun:me) in to the [bookcase](location)
+- go by my side
+- get accompanying to the [battery table](location)
+- get following with to [bartable](location)
+- start roaming by my side
+- stay close at
+- be [me](pronoun) [im](pronoun:me) next to the [dinner chair](location)
+- stay at my side
+- follow [her](pronoun)
+- begin pursuing the [him](pronoun)
+- begin pursuing to the [door](location)
+- begin tracking [him](pronoun)
+- be at my side
+- start walking with [me](pronoun) [Im](pronoun:me) closely to the [appliance](location)
+- stay near to [shower](location)
+- stay closely to [me](pronoun)
+- stay behind
+- stay with the the [lady](gender:female)
+- begin following [me](pronoun)
+- start staying next to [me](pronoun) [Im](pronoun:me) nearby at the [bedroom](location)
+- follow by my side
+- get staying close at the [her](pronoun)
+- get pursuing to [bed](location)
+- start following to [gpsr entrance](location)
+- begin pursuing [me](pronoun)
+- follow at my side
+- start tracking the [her](pronoun)
+- start tracking
+- be [me](pronoun) [im](pronoun:me) closely to the [kitchen counter](location)
+- get staying after the the person [waving](gesture)
+- start tracking [him](pronoun)
+- get accompanying nearby to the [her](pronoun)
+- track [me](pronoun) [Im](pronoun:me) by the [entrance shelf](location)
+- get tracking to [counter](location)
+- stay close by
+- get roaming nearby the [anna](name) that is nearby to the [livingroom](location)
+- get tracking [me](pronoun) [i am](pronoun:me) into the vincity of the [room](location)
+- track with to [hallway table](location)
+- start accompanying [me](pronoun)
+- get pursuing [me](pronoun) [I am](pronoun:me) in to the front of the [washing machine](location)
+- begin accompanying the [her](pronoun)
+- start pursuing the [him](pronoun) close at the [door](location)
+- begin pursuing the the [boy](gender:male) is it [raising their right arm](gesture:rising right arm)
+- get pursuing the the [woman](gender:female) it's [pointing to the left](gesture:pointing right) closely to the [sofa](location)
+- be [me](pronoun) [i am](pronoun:me) in to the front of the [shower](location)
+- start following to [hall](location)
+- be [me](pronoun) [I'm](pronoun:me) nearby at the [right bookcase](location)
+- stay near
+- begin going at my side
+- accompany [me](pronoun) [im](pronoun:me) by the [shelf](location)
+- track at my side
+- start staying with the [mark](name) that's by the [kitchen stuff](location)
+- begin accompanying [me](pronoun)
+- stay with at my side
+- begin traveling after the [louis](name) that is on the back of the [office](location)
+- begin accompanying to [shelf](location)
+- be by my side
+- stay
+- get pursuing the [her](pronoun) [him](pronoun) is nearby the [dresser](location)
+- start pursuing to [kitchen rack](location)
+- get going behind
+- begin traveling by my side
+- start staying after [me](pronoun) [Im](pronoun:me) close at the [couchtable](location)
+- track [him](pronoun)
+- stay the the [man](gender:male) that's [rising right arm](gesture)
+- pursue the [him](pronoun)
+- get walking nearby
+- get staying with the [her](pronoun) [her](pronoun) is at the [bathroom](location)
+- begin tracking to [tableware](location)
+- stay nearby [her](pronoun)
+- track by my side
+- accompany at my side
+- travel at my side
+- start advancing by my side
+- begin staying after
+- begin navigating at my side
+- stay [me](pronoun) [Im](pronoun:me) near the [exit](location)
+- accompany the the [gentleman](gender:male)
+- get pursuing [me](pronoun) [i am](pronoun:me) to the vincity of the [dishwasher](location)
+- pursue by my side
+- walk after
+- begin pursuing the [her](pronoun)
+- get following [me](pronoun) [i'm](pronoun:me) near the [left bedside table](location)
+- migrates by my side
+
+## intent:greet
+- hi
+- hello
+- hey
+- howdy
+- hola
+- ola
+- hello there
+- hey there
+- hi again
+- hello again
+- hey again
+- howdy again
+- hola again
+- ola again
+- hello there again
+- hey there again
+- greetings
+- salutations
+- greetings and salutations
+- how are you
+- whats up
+- how are you doing
+- how is going
+- how it is going
+- how it's going
+- how its going
+- how is it going
+- good morning
+- good afternoon
+- good day
+- good night
+- goodmorning
+- goodafternoon
+- goodday
+- goodnight
+- are you there
+- morning
+- how are things going
+- are you around
+- whatsup
+- sup
+- hallo
+- what's up
+- what is up
+
+## intent:move
+- approach close at the [bathroom cabinet](location)
+- nearby to the [room](location)
+- get walking the spot where someone [pointing left](gesture) are
+- navigate
+- migrates
+- close by the [stove](location)
+- travel
+- wait nearby at the [appliance](location)
+- begin driving in [backward](direction:down)
+- search closely to the [dining room](location)
+- drive in [left](direction)
+- advance
+- begin driving on [him](pronoun) [right](direction)
+- roam
+- drive
+- stand close to [me](pronoun) [im](pronoun:me) to the [corridor](location)
+- wait to the back of the [door](location)
+- begin walking toward the [right](direction)
+- go
+- go on [right](direction)
+- begin roaming
+- run
+- move
+- come nearby at [them](pronoun)
+- get advancing [ahead](direction:up)
+- move towards the [left](direction)
+- get migrating on [left](direction)
+- approach nearby at [me](pronoun) [I'm](pronoun:me) nearby the [tray table](location)
+- stand near [me](pronoun) [I am](pronoun:me) nearby at the [hall](location)
+- search
+- start traveling to the [my](pronoun:me) [right](direction)
+- start walking
+- get roaming the spot where [him](pronoun) is
+- stand by the place where the [girl](gender:female) are
+- get searching wherever whoever [waving](gesture) are
+- stand nearby at the [washing machine](location)
+- stand nearby the [exit](location)
+- in to the back of the [cabinet](location)
+- travel where [carmen](name) are
+- stand the location where [i am](pronoun:me)
+- stand nearby [me](pronoun) [I'm](pronoun:me) in to the vincity of the [snack](location)
+- move on [right](direction)
+- wait for [me](pronoun) nearby at the [room](location)
+- approach nearby at [them](pronoun)
+- migrates to the [rearward](direction:down)
+- walk
+- begin searching close at where [I am](pronoun:me)
+- stand in to the side of the person [pointing to the left](gesture:pointing right)
+- close by the [snacks](location)
+- begin navigating [forward](direction:up)
+- start roaming
+- approach nearby at anyone thats [pointing left](gesture) [her](pronoun) is close by the [entrance](location)
+- get searching toward the [forward](direction:up)
+- get searching on [her](pronoun) [right](direction)
+- stand into the person [pointing left](gesture) on the [bedroom](location)
+- walk in [my](pronoun:me) [right](direction)
+- get traveling
+- get roaming by the [side table](location)
+- approach to the back of the [dude](gender:male) [him](pronoun) is closely to the [dinner chair](location)
+- begin roaming on [rear](direction:down)
+- begin navigating the location where the [woman](gender:female) [pointing to the left](gesture:pointing right) is
+- start searching in to the front of wherever [tracy](name) is
+- come nearby to [jordan](name) that is close to the [cutlery](location)
+- nearby at the [center table](location)
+- into the front of the [drawer](location)
+- start running [backwards](direction:down)
+- move by the [snacks](location)
+- stand next to [her](pronoun) [him](pronoun) is near the [workshop](location)
+- wait next to the [hallway trashbin](location)
+- get moving by the [right bookcase](location)
+- come by [me](pronoun) [i'm](pronoun:me) nearby at the [office](location)
+- get traveling close at the [bathroom cabinet](location)
+- next to the [car](location)
+- roam the area where [mark](name) are
+- into the [freezer](location)
+- get driving close at the [tableware](location)
+- come close at the [kitchen cabinet](location)
+- stand on [me](pronoun) [i am](pronoun:me) by the [door](location)
+- stand at [me](pronoun) [Im](pronoun:me) near the [dresser](location)
+- begin going [rearward](direction:down)
+- begin advancing at [left](direction)
+- come close at [me](pronoun) [I am](pronoun:me) by the [kitchen rack](location)
+- stand nearby [me](pronoun) [im](pronoun:me) close to the [balcony shelf](location)
+- get moving near the [kitchencounter](location)
+- approach by wherever the [guy](gender:male) is
+- nearby the [bidet](location)
+- stand close by [me](pronoun) [I'm](pronoun:me) close at the [hallway table](location)
+- approach close by the [gentleman](gender:male) [her](pronoun) is nearby the [microwave](location)
+- approach wherever [I am](pronoun:me)
+- close by the [cutlery drawer](location)
+- stand on the front of the person [pointing left](gesture) that's closely to the [plant](location)
+- search nearby at the [center table](location)
+- start traveling on [him](pronoun) [left](direction)
+- begin advancing by the [dishwasher](location)
+- begin driving [backwards](direction:down)
+- get traveling [forward](direction:up)
+- at the [kitchen shelf](location)
+- start driving [front](direction:up)
+- come at the front of [them](pronoun)
+- come to the rear of [her](pronoun) thats into the back of the [desk](location)
+
+## intent:pick
+- start picking the [chocosticks](object) where the person that is [raising their left arm](gesture:rising left arm) are
+- hold [that](pronoun:it)
+- start picking [something](anything:anything) next to the [bistro table](location)
+- start grabing [any object](anything:anything) that's near the [entrance shelf](location)
+- begin holding the [water](object)
+- begin picking the [chocosticks](object) close at the [hallway](location)
+- get grabing the [box](object) near the spot where someone [pointing right](gesture) are
+- take the [tea spoon](object) close to the room where [I'm](pronoun:me)
+- start grabing [it](pronoun)
+- begin holding the [dish](object) that is close to the [flight case](location)
+- begin taking [that](pronoun:it) up
+- begin picking the [mixdrink](object)
+- get holding [any object](anything:anything) closely to the area where [im](pronoun:me)
+- begin taking [anything](anything) close by wherever [daniel](name) are
+- begin picking [anything](anything) where [amy](name) are
+- get holding the [alike](object) by the [sideboard](location)
+- grab [something](anything:anything)
+- start picking the [nuts](object)
+- pick [the object](anything:anything) by wherever [mia](name) are
+- start getting the [kitchen stuff](object)
+- start holding the [banana milk](object) where whoever [pointing to the left](gesture:pointing right) are
+- start taking [a object](anything:anything) where the [girl](gender:female) are
+- begin getting [any object](anything:anything) close at the [dinner chair](location)
+- grab [the object](anything:anything) next to wherever [i am](pronoun:me)
+- start holding [something](anything:anything) nearby at the [bedroom](location)
+- begin holding the [cornflakes](object)
+- get picking [that](pronoun:it)
+- begin holding [a object](anything:anything)
+- get grabing [anything](anything) it's next to the [tv-stand](location)
+- start taking [anything](anything) in to the [tv-stand](location)
+- get picking [a object](anything:anything) in to the front of the [center table](location)
+- grab the [toothpaste](object) near the [balcony shelf](location)
+- get taking [a object](anything:anything)
+- grab the [paper](object) wherever [him](pronoun) is
+- get [anything](anything) close to the [fruit](location)
+- get taking [it](pronoun)
+- get getting [something](anything:anything)
+- get grabing [it](pronoun)
+- pick [a object](anything:anything) close to the location where [i'm](pronoun:me)
+- begin holding the [big dish](object) close at wherever the [lady](gender:female) are
+- begin taking the [dishwashing soap](object) at the [left rack](location)
+- start getting [that](pronoun:it)
+- get holding the [soap](object) wherever [i am](pronoun:me)
+- begin taking [that](pronoun:it)
+- pick the [pasta](object) into the [bistro table](location)
+- pick the [honey chips](object)
+- get the [spponge](object) close by the [drawer](location)
+- get the [kiwi](object)
+- start taking [anything](anything) where someone [rising left arm](gesture) is
+- begin holding the [strawberry cookies](object) where the [gentleman](gender:male) it is [pointing to the right](gesture:pointing left) is
+- hold [that](pronoun:it) up
+- get picking the [chopsticks](object) in to the vincity of the [couch table](location)
+- start getting [a object](anything:anything) where the [guy](gender:male) is
+- begin taking [it](pronoun)
+- begin picking the [tray](object) nearby the [towel rail](location)
+- start taking [it](pronoun)
+- begin holding the [chips](object)
+- get [any object](anything:anything) where [him](pronoun) is
+- get taking [that](pronoun:it)
+- get the [ice-tea](object)
+- get picking [it](pronoun)
+- pick [a object](anything:anything) close to the [left planks](location)
+- start getting the [party cracker](object) the area where [i am](pronoun:me)
+- get taking [the object](anything:anything) its near the [door](location)
+- get holding the [knife](object) is it on the front of the [trashbin](location)
+- get getting [it](pronoun)
+- begin getting [the object](anything:anything) close to the [bathroom cabinet](location)
+- hold [anything](anything) close to the room where the [boy](gender:male) are
+- pick the [hair spray](object)
+- start taking the [known](object) where [her](pronoun) is
+
+## intent:start
+- you can initiate
+- wake
+- you may initiate
+- start up
+- start
+- turn on
+- wake up
+- you should listen
+- light up
+- on
+- listen
+- begin
+- you can wake up
+- you should turn on
+- commence
+- you can start up
+- initiate
+- you should begin
+- go ahead
+- excuse me wake
+- you should commence
+- could you please listen
+- could you listen
+- you can light up
+- you should wake up
+- would you be kind to listen
+- you should light up
+- would you kindly go ahead
+- would you kindly turn on
+- you should on
+
+## intent:stop
+- wrong road
+- enough
+- freeze holding her
+- you arrived right there
+- thats here
+- not find
+- it's on there
+- we arrived
+- we arrived nearby at the [seat](location)
+- go off
+- here is the [dinnertable](location)
+- stay on hibernation
+- end's on here
+- you are close to the [living room](location)
+- you arrived
+- off
+- this is the [exit](location)
+- you are nearby the [kitchen counter](location)
+- is here
+- end on there
+- wrong path
+- this is the [bar](location)
+- end on here
+- that's here
+- go on hibernation
+- it's enough
+- its here
+- you arrived on there
+- you are close by the [table](location)
+- freeze
+- turn off
+- stay off
+- you arrived closely to the [flight case](location)
+- it's here
+- this is the [entrance](location)
+- don't do it
+- on here is the [dining room](location)
+- finish doing it
+- wait
+- stop the traveling to here
+- stop the exercise
+- end right there
+- this is the [microwave](location)
+- isn't the acceptable course
+- go on suspension
+- you are on here
+- we arrived nearby at the [desk](location)
+- go on offline
+- isn't the road
+- it is in there
+- be off
+- wrong route
+- this is the [container](location)
+- you are close by the [appliance](location)
+- that is enough
+- stop
+- here is the [shelf](location)
+- stop the walking
+- you arrived next to the [washing machine](location)
+- halt
+- pause the holding her
+- we arrived near the [balcony](location)
+- on there is the [kitchen shelf](location)
+- that is the [door](location)
+- suspend
+- suspend traveling to there
+- we are closely to the [coathanger](location)
+- this is the [cleaning stuff](location)
+- don't
+- do not do it
+- not take it
+- don't hold
+- end here
+- you are close at the [teepee](location)
+- we are on here
+- you are close at the [shelf](location)
+- it is on here
+- we arrived in the back of the [bathtub](location)
+- you arrived next to the [bathroom cabinet](location)
+- hold up
+- end's in there
+- end in here
+- we are closely to the [hall](location)
+- halt the doing it
+- cease
+- its the [storage shelf](location)
+- be on suspension
+- halt the what you doing
+- we arrived close by the [bar](location)
+- not do it
+- this is the [coffee table](location)
+- do not
+- its in there
+- this is the [plant](location)
+- we are right there
+- you are close at the [couch](location)
+- dont follow her
+- it is the [drawer](location)
+- is it here
+- there is the [dresser](location)
+
+## synonym:anything
+- any object
+- something
+- the object
+- a object
+- anything
+
+## synonym:down
+- reverse
+- rearward
+- down
+- backward
+- backwards
+- back
+- rear
+
+## synonym:female
+- female
+- lady
+- girl
+- woman
+
+## synonym:it
+- it
+- that
+
+## synonym:male
+- male
+- guy
+- man
+- boy
+- gentleman
+- dude
+
+## synonym:me
+- I'm
+- my
+- i am
+- i
+- me
+- I
+- Im
+- im
+- i'm
+- I am
+
+## synonym:pointing left
+- pointing to the right
+- pointing left
+
+## synonym:pointing right
+- pointing right
+- pointing to the left
+
+## synonym:rising left arm
+- rising left arm
+- raising their left arm
+
+## synonym:rising right arm
+- rising right arm
+- raising their right arm
+
+## synonym:up
+- up
+- forth
+- ahead
+- forward
+- along
+- onward
+- front

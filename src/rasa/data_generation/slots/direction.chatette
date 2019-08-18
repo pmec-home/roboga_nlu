@@ -1,0 +1,25 @@
+@[direction#updown]
+    ~[up] = up
+    ~[backward] = down
+
+@[direction#rl]
+    left
+    right
+
+~[up]
+    up
+    front
+    forward
+    ahead
+    forth
+    onward
+    along
+
+~[backward]
+    down
+    rear
+    backward
+    backwards
+    rearward
+    back
+    reverse

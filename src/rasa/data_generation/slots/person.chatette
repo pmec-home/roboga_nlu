@@ -1,0 +1,227 @@
+@[pronoun#me]
+    me
+
+@[pronoun#I]
+    [&I] = me
+
+@[pronoun#Iam]
+    [&i'm] = me
+    [&im] = me
+    [&i am] = me
+
+@[pronoun#my]
+    my = me
+
+@[pronoun#himher]
+    him
+    her 
+
+@[pronoun#them]
+    them
+    they
+
+@[pronoun#it]
+    it
+    that = it
+
+@[gender]
+    ~[male_person] = male
+    ~[female_person] = female
+
+@[name]
+    ~[names]
+
+~[male_person]
+    male
+    man
+    dude
+    guy
+    boy
+    gentleman
+
+~[female_person]
+    female
+    woman
+    girl
+    lady
+
+~[person#other]
+    @[pronoun#himher]
+    @[name]
+    the @[gender]
+    the @[gender] ~[that's?] @[gesture]
+    ~[someone] ~[that's?] @[gesture]
+
+~[person#them]
+    @[pronoun#them]
+
+~[person#me]
+    @[pronoun#me]
+    
+~[someone]
+    someone
+    whoever
+    anyone
+    the person
+
+~[names]
+    brian
+    michael
+    christopher
+    william
+    john
+    david
+    james
+    robert
+    scott
+    richard
+    angie
+    mary
+    amy
+    kimberly
+    lisa
+    melissa
+    michelle
+    jennifer
+    elizabeth
+    julie
+    jamie
+    morgan
+    taylor
+    tracy
+    jordan
+    hayden
+    peyton
+    robin
+    alex
+    emma
+    sophia
+    isabella
+    ava
+    emily
+    angel
+    madison
+    charlotte
+    noah
+    liam
+    mason
+    jacob
+    ethan
+    alexander
+    daniel
+    olivia
+    mia
+    abigail
+    harper
+    benjamin
+    alfred
+    charles
+    luis
+    paul
+    steve
+    anna
+    beth
+    carmen
+    jessica
+    kristina
+    laura
+    sarah
+    kimberley
+    edward
+    homer
+    kevin
+    kurt
+    eve
+    jane
+    liza
+    charlie
+    francis
+    skyler
+    linda
+    patricia
+    george
+    mark
+    louis
+
+~[female_names]
+    emma
+    olivia
+    sophia
+    ava
+    isabella
+    mia
+    abigail
+    emily
+    charlotte
+    harper
+    madison
+    anna
+    beth
+    carmen
+    jennifer
+    jessica
+    kimberly
+    kristina
+    laura
+    mary
+    sarah
+    angie
+    amy
+    kimberley
+    lisa
+    melissa
+    michelle
+    elizabeth
+    julie
+    alex
+    angel
+    eve
+    jamie
+    jane
+    liza
+    tracy
+    robin
+    taylor
+    charlie
+    francis
+    linda
+    patricia
+    skyler
+
+
+~[male_names]
+    noah
+    liam
+    mason
+    jacob
+    william
+    ethan
+    james
+    alexander
+    michael
+    benjamin
+    daniel
+    alfred
+    charles
+    john
+    luis
+    paul
+    richard
+    robert
+    steve
+    brian
+    christopher
+    david
+    scott
+    alex
+    angel
+    edward
+    homer
+    jamie
+    kevin
+    kurt
+    tracy
+    robin
+    charlie
+    francis
+    skyler

@@ -1,0 +1,536 @@
+// **************************************************
+//  Intent
+//  Affirmative
+// **************************************************
+~[yes]
+    yes
+    ~[right]
+    ~[allright]
+    affirmative
+    yes to that
+    yep
+    si
+    correcto
+    ok
+    nice
+    yeah
+    yea
+
+~[right]
+    right
+    correct
+    accurate
+    acceptable
+    exact
+    precise
+
+~[allright]
+    ok
+    all right
+    fine
+    good
+
+~[mean-want]
+    want
+    desire
+    mean
+    meant
+    agree on
+    like
+    need
+    wish
+    crave
+    prefer
+
+~[wantThat]
+    i ~[mean-want] ~[that-it]
+    sounds good
+    that sounds good
+    very good
+    very nice
+    ~[that's?] ~[allright]
+    ~[that's?] ~[right]
+    ~[that's] what i want
+    ~[that's?] perfect
+    that's it
+    that is it
+    you understood me
+    ~[that's?] what i ~[mean-want]
+    ~[mean-want] ~[that-it]
+    ~[im] ~[allright] with that
+    ~[im] ~[allright] with this
+    sure
+    indeed
+    definitely
+    of course
+    exactly
+    gladly
+    true
+    valid
+    ~[you're] ~[right]
+    you got that ~[right]
+    ~[you're] goddamn ~[right]
+    do it
+    let's do it
+
+~[yes:polite]
+    ~[_please:thanks]
+    if you are kind ~[thanks?]
+    if you please ~[thanks?]
+    if you could ~[thanks?]
+    ~[i-would] love it ~[thanks?]
+    ~[i-would] love that ~[thanks?]
+
+// **************************************************
+//  Intent
+//  Negative
+// **************************************************
+~[no]
+    no
+    nope
+    negative
+    no to that
+    ~[didn't]
+    ~[untrue]
+
+~[wrong]
+    bad
+    incorrect
+    wrong
+    mistaken
+    incorrect
+    inaccurate
+    imprecise
+    incomplete
+    not ~[allright]
+    not ~[right]
+
+~[untrue]
+    ~[wrong]
+    untrue
+    false
+    faulty
+    defective
+    falty
+    erroneous
+    missing
+
+~[notWhatIWant]
+    ~[that's] ~[untrue]
+    ~[didn't] ~[mean-want] ~[that-it]
+    ~[didn't] agree on that
+    not what i ~[mean-want]
+    ~[im?] not ~[allright] with that
+    definitely ~[no]
+    ~[wrong] for me
+    ~[isn't] ~[allright]
+    ~[isn't] ~[right]
+    ~[you're] ~[wrong]
+    there is no need
+    no need
+    no way
+    not quite
+    not at all
+    almost
+
+// **************************************************
+//  Intent
+//  Greet
+// **************************************************
+~[hi]
+    hi
+    hello
+    hey
+    howdy
+    hola
+    ola
+    hello there
+    hey there
+
+~[greetings]
+    ~[hi] again
+    greetings
+    salutations
+    greetings and salutations
+    how are you
+    whats up
+    how are you doing
+    how ~[it's] going
+    good morning
+    good afternoon
+    good day
+    good night
+    goodmorning
+    goodafternoon
+    goodday
+    goodnight
+    are you there
+    morning
+    how are things going
+    are you around
+    whatsup
+    sup
+    hallo
+    what's up
+    what is up
+
+// **************************************************
+//  Intent
+//  Bye
+// **************************************************
+~[bye]
+    bye
+    bye bye
+    goodbye
+    good bye
+    adios
+    farewell
+    adieu
+    chao
+    chau
+    tchau
+    bye now
+    later
+
+~[leaving]
+    ~[im?] leaving
+    [i will?] talk to you soon
+    [i?] have to go [now?]
+    [i?] got to go [now?]
+    [i?] talk to you later
+    ~[im?] heading out
+    ~[im?] leaving now
+    ~[im?] going out
+    see you around
+    have a nice day
+    have a nice afternoon
+    have a nice night
+    see you
+    see you later
+    cu
+    [i?] got to go [now?]
+
+// **************************************************
+//  Intent
+//  start
+// **************************************************
+~[start]
+    begin
+    wake [up?]
+    start [up?]
+    light up
+    listen
+    on
+    turn on
+    commence
+    go ahead
+    initiate
+
+~[you may]
+    ~[please_]
+    you may
+    you can
+    you should
+
+// **************************************************
+//  Intent
+//  stop
+// **************************************************
+~[stop]
+    stop ~[job?]
+    finish ~[job?]
+    cease ~[job?]
+    freeze ~[job?]
+    hold up ~[job?]
+    suspend ~[job?]
+    wait
+    pause ~[job?]
+    halt ~[job?]
+    off
+    go off
+    turn off
+    stay off
+    stay
+    be off
+    ~[goon] suspension
+    ~[goon] hibernation
+    ~[goon] offline
+    hibernate
+    ~[don't]
+    ~[that's?] enough
+    ~[don't] ~[action]
+    not ~[action]
+
+~[goon]
+    go on
+    enter on
+    be on
+    stay on
+
+~[here-there]
+    here
+    there
+    right here
+    right there
+    in here
+    in there
+    on here
+    on there
+
+~[arrived]
+    ~[that's] here
+    ~[it's] ~[here-there]
+    ~[we-you] are ~[here-there]
+    ~[we-you] are ~[atthe] @[location]
+    ~[we-you] arrived ~[here-there?]
+    ~[we-you] arrived ~[atthe] @[location]
+    this is the @[location]
+    ~[here-there] is the @[location]
+    ~[that's] the @[location]
+    end ~[here-there]
+    end's ~[here-there]
+    wrong ~[way]
+    ~[isn't] the ~[right?] ~[way] 
+
+~[way]
+    way
+    path
+    route
+    road
+    course
+
+~[action]
+    ~[move]
+    ~[follow] ~[pronoun?]
+    ~[grab] [it?]
+    find
+    do it
+
+~[actioning]
+    ~[moving] ~[there?]
+    ~[following] ~[pronoun?]
+    ~[grabing] ~[pronoun?]
+    finding [it?]
+    doing it
+
+~[there]
+    there
+    here
+    to there
+    to here
+
+~[work]
+    movement
+    motors
+    execution
+    task
+    job
+    activity
+    duty
+    exercise
+    work
+    operation
+    process
+    search
+    assignment
+    labor
+    trial
+    play
+    pursue
+    everything
+    what you doing
+    what you are doing
+
+~[job]
+    [the?] ~[actioning]
+    [the?] ~[work]
+
+// **************************************************
+//  Intent
+//  move
+// **************************************************
+~[move]
+    move
+    go
+    walk
+    travel
+    advance
+    roam
+    search
+    navigate
+    drive
+    migrates
+    run
+
+~[moving]
+    moving
+    going
+    walking
+    traveling
+    advancing
+    roaming
+    searching
+    navigating
+    driving
+    migrating
+    running
+
+~[move_order]
+    ~[move]
+    start ~[moving]
+    begin ~[moving]
+    get ~[moving]
+
+~[stand]
+    stand
+    come
+    approach
+
+~[where]
+    where
+    the ~[location] where
+    wherever
+
+~[location]
+    location
+    place
+    room
+    spot
+    area
+
+~[is at the]
+    ~[atthe]
+    ~[that is] ~[atthe]
+    @[pronoun#himher] is ~[atthe]
+
+~[command_move]
+    ~[move_order]
+    ~[move_order] ~[on?] @[direction#updown]
+    ~[move_order] ~[on_pronoun] @[direction#rl]
+    ~[move_order] ~[atthe] @[location]
+    ~[move_order] ~[nextto?/30] ~[where] {~[person#other] is/~[person#other] are/@[pronoun#Iam]}
+
+~[command_be]
+    {~[stand]/wait/wait for ~[person]} ~[atthe] @[location]
+    ~[atthe] @[location]
+    ~[stand] ~[nextto?/30] ~[where] {~[person#other] is/~[person#other] are/@[pronoun#Iam]}
+    ~[stand] ~[nextto] ~[person]
+    ~[stand] ~[nextto] ~[person#other] ~[is at the] @[location]
+    ~[stand] ~[nextto] ~[person#me] @[pronoun#Iam] ~[atthe] @[location]
+
+~[command_be_move]
+    ~[command_be]
+    ~[command_move]    
+
+~[on]
+    on
+    in
+    to the
+    towards the
+    toward the
+    at
+
+~[on_pronoun]
+    ~[on]
+    ~[on] @[pronoun#my]
+    ~[on] @[pronoun#himher]
+
+// **************************************************
+//  Intent
+//  follow
+// **************************************************
+~[follow]
+    follow
+    accompany
+    track
+    pursue
+    stay ~[after]
+
+~[follow-after]
+    follow ~[after?/20]
+    accompany ~[after?/20]
+    track ~[after?/20]
+    pursue ~[after?/20]
+    stay ~[after]
+
+~[following]
+    following
+    tracking
+    accompanying
+    pursuing
+    staying ~[after]
+
+~[following-after]
+    following ~[after?/20]
+    tracking ~[after?/20]
+    accompanying ~[after?/20]
+    pursuing ~[after?/20]
+    staying ~[after]
+
+~[follow_order#normal]
+    ~[follow]
+    start ~[following]
+    begin ~[following]
+    get ~[following]
+
+~[follow_order#after]
+    ~[follow-after]
+    start ~[following-after]
+    begin ~[following-after]
+    get ~[following-after]
+    ~[move_order] ~[after]
+    ~[be] ~[after?/20]
+
+~[after]
+    after
+    behind
+    ~[nextto#close]
+    with
+
+~[be]
+    be
+    stay
+
+~[command_follow]
+    ~[follow_order]
+    ~[follow_order] {@[pronoun#me]/@[pronoun#himher]}
+    ~[follow_order#normal] ~[after?/20] {to the/ to} @[location]
+    ~[follow_order#after] the ~[person#other]
+    ~[follow_order#after] the ~[person#other] ~[is at the] @[location]
+    ~[follow_order#after] ~[person#me] @[pronoun#Iam] ~[atthe] @[location]
+    {~[follow]/~[move_order]/~[be]} at my side 
+    {~[follow]/~[move_order]/~[be]} by my side
+
+// **************************************************
+//  Intent
+//  grab
+// **************************************************
+~[grab]
+    grab
+    take
+    pick
+    hold
+    get
+
+~[grabing]
+    grabing
+    taking
+    picking
+    holding
+    getting
+
+~[grab_order]
+    ~[grab]
+    start ~[grabing]
+    begin ~[grabing]
+    get ~[grabing]
+
+~[something]
+    @[anything]
+    the @[object]
+
+~[command_grab]
+    ~[grab_order] @[pronoun#it] [up?/10]
+    ~[grab_order] ~[something] [up?/10]
+    ~[grab_order] ~[something] ~[that's?/20] ~[atthe] @[location]
+    ~[grab_order] ~[something] ~[nextto?/30] ~[where] {~[person#other] is/~[person#other] are/@[pronoun#Iam]}
