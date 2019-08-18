@@ -1,3 +1,5 @@
+string data
+---
 string message
 string intent
 string[] entities
