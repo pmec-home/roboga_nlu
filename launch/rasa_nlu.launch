@@ -1,4 +1,4 @@
 <launch>
-    <node name="rasa_nlu" pkg="roboga_nlu" type="rasa_interpreter.py" output="screen" >
+    <node name="rasa_nlu" pkg="zordon_nlu" type="rasa_interpreter.py" output="screen" >
     </node>
 </launch>

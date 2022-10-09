@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import os
 
 import rospy
@@ -22,6 +22,6 @@ if __name__ == "__main__":
             entities=entities
         )
 
-    pub = rospy.Service("roboga/nlu", Nlu, handler)
+    pub = rospy.Service("zordon/nlu", Nlu, handler)
     rospy.spin()
     
