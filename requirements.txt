@@ -1,0 +1,7 @@
+rasa-nlu==0.14.3
+rasa-nlu[tensorflow]==0.14.3
+chatette==1.4.0
+rasa-core-sdk==0.12.2
+spacy==2.0.18
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.0.0/en_core_web_sm-2.0.0.tar.gz#en_core_web_sm
+service_identity
